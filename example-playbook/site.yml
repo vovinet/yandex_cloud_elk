@@ -1,0 +1,5 @@
+---
+- hosts: localhost
+  remote_user: root
+  roles:
+    - vovinet.cloud_yandex_cloud_elk.cloud_yandex_cloud_elk

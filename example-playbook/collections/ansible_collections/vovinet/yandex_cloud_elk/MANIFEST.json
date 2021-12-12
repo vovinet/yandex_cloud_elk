@@ -1,0 +1,30 @@
+{
+ "collection_info": {
+  "namespace": "vovinet",
+  "name": "yandex_cloud_elk",
+  "version": "1.0.0",
+  "authors": [
+   "Vladimir Zubarev <vladimir@zubarev.su>"
+  ],
+  "readme": "README.md",
+  "tags": [],
+  "description": "My very Test collection with module and role Package",
+  "license": [
+   "MIT"
+  ],
+  "license_file": null,
+  "dependencies": {},
+  "repository": "https://github.com/vovinet/yandex_cloud_elk",
+  "documentation": "http://docs.example.com",
+  "homepage": "https://github.com/vovinet/yandex_cloud_elk",
+  "issues": "http://example.com/issue/tracker"
+ },
+ "file_manifest_file": {
+  "name": "FILES.json",
+  "ftype": "file",
+  "chksum_type": "sha256",
+  "chksum_sha256": "e1513f6ec62ff99ecb4ef38cd43a83ea1675310c1a49ce5183ada416355a9589",
+  "format": 1
+ },
+ "format": 1
+}

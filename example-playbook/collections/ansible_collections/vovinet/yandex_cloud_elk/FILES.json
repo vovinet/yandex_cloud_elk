@@ -1,0 +1,187 @@
+{
+ "files": [
+  {
+   "name": ".",
+   "ftype": "dir",
+   "chksum_type": null,
+   "chksum_sha256": null,
+   "format": 1
+  },
+  {
+   "name": "docs",
+   "ftype": "dir",
+   "chksum_type": null,
+   "chksum_sha256": null,
+   "format": 1
+  },
+  {
+   "name": "plugins",
+   "ftype": "dir",
+   "chksum_type": null,
+   "chksum_sha256": null,
+   "format": 1
+  },
+  {
+   "name": "plugins/modules",
+   "ftype": "dir",
+   "chksum_type": null,
+   "chksum_sha256": null,
+   "format": 1
+  },
+  {
+   "name": "plugins/modules/my_own_module.py",
+   "ftype": "file",
+   "chksum_type": "sha256",
+   "chksum_sha256": "2bb16ce951d3865785412ad84954295a77dad509a846e17140894ce2c7684c85",
+   "format": 1
+  },
+  {
+   "name": "plugins/README.md",
+   "ftype": "file",
+   "chksum_type": "sha256",
+   "chksum_sha256": "fd9c45a7bb36b6d48ee5b70178f581d0eb452dedd323e32f763644865613a611",
+   "format": 1
+  },
+  {
+   "name": "README.md",
+   "ftype": "file",
+   "chksum_type": "sha256",
+   "chksum_sha256": "5a3e11145ddc8790ccc2950ebfeae4bc193785c62db53457903529f4c77b555f",
+   "format": 1
+  },
+  {
+   "name": "roles",
+   "ftype": "dir",
+   "chksum_type": null,
+   "chksum_sha256": null,
+   "format": 1
+  },
+  {
+   "name": "roles/yandex_cloud_elk",
+   "ftype": "dir",
+   "chksum_type": null,
+   "chksum_sha256": null,
+   "format": 1
+  },
+  {
+   "name": "roles/yandex_cloud_elk/.travis.yml",
+   "ftype": "file",
+   "chksum_type": "sha256",
+   "chksum_sha256": "43e63a93716f15cdb102c201e4631be604b45910b8c749c78d89e3fc076c7c7e",
+   "format": 1
+  },
+  {
+   "name": "roles/yandex_cloud_elk/defaults",
+   "ftype": "dir",
+   "chksum_type": null,
+   "chksum_sha256": null,
+   "format": 1
+  },
+  {
+   "name": "roles/yandex_cloud_elk/defaults/main.yml",
+   "ftype": "file",
+   "chksum_type": "sha256",
+   "chksum_sha256": "61a287a6f2d7e817767e89edad8ebfffe7af5de459560397f57a4423391dfd2d",
+   "format": 1
+  },
+  {
+   "name": "roles/yandex_cloud_elk/files",
+   "ftype": "dir",
+   "chksum_type": null,
+   "chksum_sha256": null,
+   "format": 1
+  },
+  {
+   "name": "roles/yandex_cloud_elk/handlers",
+   "ftype": "dir",
+   "chksum_type": null,
+   "chksum_sha256": null,
+   "format": 1
+  },
+  {
+   "name": "roles/yandex_cloud_elk/handlers/main.yml",
+   "ftype": "file",
+   "chksum_type": "sha256",
+   "chksum_sha256": "1fd30a5ca5abf203150487d4c3e946755a15aff97ce2d2ac5b010d16b0d431dd",
+   "format": 1
+  },
+  {
+   "name": "roles/yandex_cloud_elk/meta",
+   "ftype": "dir",
+   "chksum_type": null,
+   "chksum_sha256": null,
+   "format": 1
+  },
+  {
+   "name": "roles/yandex_cloud_elk/meta/main.yml",
+   "ftype": "file",
+   "chksum_type": "sha256",
+   "chksum_sha256": "69b46871c0707a13166d9dfa5f56369f5859542c333a9667438910f7000563a7",
+   "format": 1
+  },
+  {
+   "name": "roles/yandex_cloud_elk/README.md",
+   "ftype": "file",
+   "chksum_type": "sha256",
+   "chksum_sha256": "fd99d241d22d29c78f2314759da01e3a5c511abb51d973bc443ba5770ac18504",
+   "format": 1
+  },
+  {
+   "name": "roles/yandex_cloud_elk/tasks",
+   "ftype": "dir",
+   "chksum_type": null,
+   "chksum_sha256": null,
+   "format": 1
+  },
+  {
+   "name": "roles/yandex_cloud_elk/tasks/main.yml",
+   "ftype": "file",
+   "chksum_type": "sha256",
+   "chksum_sha256": "246afc9e280679dec13676a64962b948af5258c6975caec57e1b6df284b9a87a",
+   "format": 1
+  },
+  {
+   "name": "roles/yandex_cloud_elk/templates",
+   "ftype": "dir",
+   "chksum_type": null,
+   "chksum_sha256": null,
+   "format": 1
+  },
+  {
+   "name": "roles/yandex_cloud_elk/tests",
+   "ftype": "dir",
+   "chksum_type": null,
+   "chksum_sha256": null,
+   "format": 1
+  },
+  {
+   "name": "roles/yandex_cloud_elk/tests/inventory",
+   "ftype": "file",
+   "chksum_type": "sha256",
+   "chksum_sha256": "e02233819b1a09844410549191813f7cc7ba360f21298578f4ba1727a27d87fc",
+   "format": 1
+  },
+  {
+   "name": "roles/yandex_cloud_elk/tests/test.yml",
+   "ftype": "file",
+   "chksum_type": "sha256",
+   "chksum_sha256": "6ec49afad658df9deb83179627c0a2bb5c3ff4a1eabcabb8dc19c3f4488e5b79",
+   "format": 1
+  },
+  {
+   "name": "roles/yandex_cloud_elk/vars",
+   "ftype": "dir",
+   "chksum_type": null,
+   "chksum_sha256": null,
+   "format": 1
+  },
+  {
+   "name": "roles/yandex_cloud_elk/vars/main.yml",
+   "ftype": "file",
+   "chksum_type": "sha256",
+   "chksum_sha256": "f2f9c9ed9bff1dc2e1698e93b7584cd9c975d95555586adc9d574765dbc65008",
+   "format": 1
+  }
+ ],
+ "format": 1
+}

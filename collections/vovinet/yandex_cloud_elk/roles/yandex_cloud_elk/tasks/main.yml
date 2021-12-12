@@ -1,0 +1,8 @@
+---
+  - name: My own module play
+    hosts: localhost
+    tasks:
+      - name: Run module
+        my_own_module:
+          file_path: "{{ file_path }}"
+          file_content: "{{ file_content }}"

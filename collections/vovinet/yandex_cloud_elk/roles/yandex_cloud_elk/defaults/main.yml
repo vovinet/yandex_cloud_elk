@@ -1,0 +1,4 @@
+---
+# defaults file for yandex_cloud_elk
+file_path: "/tmp/myfile.txt"
+file_content: "Very test message!"

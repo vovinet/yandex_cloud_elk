@@ -1,0 +1,8 @@
+---
+- name: Module test
+  hosts: localhost
+  tasks:
+    - name: Mudule task
+      vovinet.yandex_cloud_elk.my_own_module:
+          file_path: /tmp/tmp-file
+          file_content: "Some text here..."
